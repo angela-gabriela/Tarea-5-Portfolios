@@ -1,7 +1,9 @@
-h1, h2, h3 {
+h1, h2 {
     font-family: "Sekuya", system-ui;
-
+color: brown;
 }
 body, p {
     font-family: "Open Sans", sans-serif;
+    background-color: blueviolet;
+    padding: 40px 20px;
 }
