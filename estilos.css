@@ -1,0 +1,14 @@
+ul, li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    background-color: yellowgreen;
+    padding: 40px 20px;
+    margin-bottom: 16px;
+}
+footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:aquamarine;
+    background-color: violet;
+    padding: 40px 20px;
+    margin-bottom: 16px;
+}
